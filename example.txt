@@ -1,2 +1,0 @@
-New Java Project
-Example Of command Commit
